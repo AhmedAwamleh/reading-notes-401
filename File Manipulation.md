@@ -1,13 +1,18 @@
 # File Manipulation
-mkdir
+1mkdir
 Make Directory - ie. Create a directory.
-rmdir
+
+2 rmdir
 Remove Directory - ie. Delete a directory.
-touch
+
+3 touch
 Create a blank file.
-cp
+
+4 cp
 Copy - ie. Copy a file or directory.
-mv
+
+5 mv
 Move - ie. Move a file or directory (can also be used to rename).
-rm
+
+6 rm
 Remove - ie. Delete a file.
