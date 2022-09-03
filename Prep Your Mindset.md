@@ -19,7 +19,7 @@ The Matasano Crypto Challenges are a great example of a set of exercises that me
 
 
 help you learn a technical specialty (bioinformatics) by applying your existing skills to real world problems.
-|[archive]https://web.archive.org/web/20160607102654/http://rosalind.info/about/)|
+[archive](https://web.archive.org/web/20160607102654/http://rosalind.info/about/)|
 
 
 
