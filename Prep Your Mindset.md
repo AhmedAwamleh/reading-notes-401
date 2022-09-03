@@ -25,5 +25,5 @@ help you learn a technical specialty (bioinformatics) by applying your existing 
 
 
 ## The Power of Believing That You Can Improve
-[](https://www.michellemcquaid.com/power-believing-can-improve/)
+[The Power of Believing That You Can Improve](https://www.michellemcquaid.com/power-believing-can-improve/)
 
