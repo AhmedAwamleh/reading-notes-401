@@ -15,11 +15,11 @@ It's difficult
 It requires good goals
 
 The Matasano Crypto Challenges are a great example of a set of exercises that meet these criteria for the majority of intermediate to senior level developers.
-|(https://web.archive.org/web/20160616225417/http://cryptopals.com/)|
+[Matasano](https://web.archive.org/web/20160616225417/http://cryptopals.com/)
 
 
 help you learn a technical specialty (bioinformatics) by applying your existing skills to real world problems.
-[archive](https://web.archive.org/web/20160607102654/http://rosalind.info/about/)|
+[archive](https://web.archive.org/web/20160607102654/http://rosalind.info/about/)
 
 
 
