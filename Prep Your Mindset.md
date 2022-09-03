@@ -23,4 +23,7 @@ help you learn a technical specialty (bioinformatics) by applying your existing 
 
 
 
-| Day01  | [React-intro](https://github.com/AhmedAwamleh/reading-notes/blob/main/day01.md)  |
+
+## The Power of Believing That You Can Improve
+[](https://www.michellemcquaid.com/power-believing-can-improve/)
+
