@@ -60,3 +60,10 @@ Node | Open source runtime environment allowing for developers to create server 
 Express | Express is a Node framework that simplifies HTTP verbs and allows for concise creation of HTTP verb handlers, simple integration with different view engines (i.e. porting information into front end templates), creates common settings such as port to use for connecting, and allows for additional request processing (middleware) to be inserted into request handling. It is unopinionated, meaning that you can structure it in various ways and use many different middleware options in myriad configurations.
 Routing | Routing is how the client request is connected to the code they will receive
 Web Request Response Cycle (WRRC) | This is how information flows through a web app: client opens brower/enters url, request gets sent to the server which takes the url request, server follows it's routing to serve back the requested web document and passes it to the view, the view renders the information in the desired format back to the client in their browser
+
+### Which 3 things had you heard about previously and now have better clarity on?
+Routing,NodemWeb Server
+### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+fluter ,html,APIIIIIIIIIIIIIIIIIIIIIIIIII
+### What are you most excited about trying to implement or see how it works?
+APIIIIIIIIIIIIIIIIIIII
