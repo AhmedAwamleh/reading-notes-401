@@ -49,6 +49,8 @@ In general, for small or medium data-driven applications, we think Chakra UI is 
 If you need something that’s quick on its feet, Chakra UI is the best option, since it is super easy to learn and lightweight.
 ## How to use Chakra UI?
 To use Chakra UI in your project, run one of the following commands in your terminal:
+
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
 After installing Chakra UI, you need to set up the ChakraProvider at the root of your application. This can be either in your index.jsx, index.tsx or App.jsx depending on the framework you use.
 
